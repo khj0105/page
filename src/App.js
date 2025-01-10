@@ -6,7 +6,7 @@ function App() {
     <div className='body'>
       <header>
         <div className='inbox'>
-        <h1 className='logo'><Link to = "/">LOGO</Link></h1>
+        <h1 className='logo'>LOGO</h1>
         <nav className='nav'>
           <ul>
             <li>스토어</li>
